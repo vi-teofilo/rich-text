@@ -6,6 +6,8 @@ Editor com formatação Rich-Text
 
 - JavaScript
 - HTML
+- CSS
+- Http-server
 
 ### O que foi aprendido
 
